@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "少年",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2026-03-22T05:45:40.575120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_少年_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "梦然",
+      "has_synced": true,
+      "path": "select/02_少年_梦然.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "梦然",
+      "has_synced": true,
+      "path": "select/03_少年_梦然.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少年、グリグリメガネを拾う",
+      "artist": "Kinniku Shōjo Tai",
+      "has_synced": true,
+      "path": "select/04_少年、グリグリメガネを拾う_Kinniku_Shōjo_Tai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "緋荔榭•少年",
+      "artist": "張敬軒",
+      "has_synced": true,
+      "path": "select/05_緋荔榭•少年_張敬軒.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少年 - Teenager",
+      "artist": "Ronghao Li",
+      "has_synced": true,
+      "path": "select/06_少年_-_Teenager_Ronghao_Li.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "少年、グリグリメガネを拾う",
+      "artist": "筋肉少女帯",
+      "has_synced": true,
+      "path": "select/07_少年、グリグリメガネを拾う_筋肉少女帯.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "光良",
+      "has_synced": true,
+      "path": "select/08_少年_光良.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "Michael Wong",
+      "has_synced": true,
+      "path": "select/09_少年_Michael_Wong.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "少年 - BOY",
+      "artist": "SOUTH BLUE",
+      "has_synced": true,
+      "path": "select/10_少年_-_BOY_SOUTH_BLUE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "Xu Wei",
+      "has_synced": true,
+      "path": "select/11_少年_Xu_Wei.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "光良",
+      "has_synced": true,
+      "path": "select/12_少年_光良.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "再見,少年 (Farewell, My Lad) - 電影《再見,少年》同名主題曲",
+      "artist": "Fish Leong",
+      "has_synced": true,
+      "path": "select/13_再見,少年_(Farewell,_My_Lad)_-_電影《再見,少年》同名主題曲_Fish_Leong.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "Michael Wong",
+      "has_synced": true,
+      "path": "select/14_少年_Michael_Wong.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/15_少年_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "空×少年",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/16_空×少年_キマグレン.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "少年",
+      "artist": "Wakin Chau",
+      "has_synced": true,
+      "path": "select/17_少年_Wakin_Chau.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "少年 - SHONEN",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/18_少年_-_SHONEN_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_少年_GRe4N_BOYZ.txt"
+    }
+  ]
+}
